@@ -5,4 +5,7 @@
       * required research into iframes, contentWindow
     * Debugged looping seek events with throttle function
     * Improved UI with basic CSS
-    
+  * Improved open_prs.rb (ruby script to open all pull requests to HR self assessments)
+    * Updated invocation syntax
+    * Opens solutions as well as pull requests
+    * required research into bash scripts and ruby
