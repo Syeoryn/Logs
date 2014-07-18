@@ -9,3 +9,7 @@
     * Updated invocation syntax
     * Opens solutions as well as pull requests
     * required research: bash scripts and ruby
+
+#### July 17, 2014
+  * Overall: Angular
+  * Researched angular factories, services, and controllers
