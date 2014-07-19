@@ -13,3 +13,8 @@
 #### July 17, 2014
   * Overall: Angular
   * Researched angular factories, services, and controllers
+
+#### July 18, 2014
+  * Overall: Tessel
+  * Started tessel tutorials (blinky.js)
+  
