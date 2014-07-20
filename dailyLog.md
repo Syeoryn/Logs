@@ -18,3 +18,24 @@
   * Overall: Tessel
   * Started tessel tutorials (blinky.js)
   
+#### July 19, 2014
+  * Overall: Tessel Hackathon (!)
+  * Completed various Tessel module tutorials
+    * Bluetooth low energy
+    * nRF24
+    * Accelerometer
+    * Ambient
+    * Camera
+    * Climate
+    * MicroSD
+    * Relay
+    * RFID
+    * LEDs
+  * Built Tesselfie
+    * Selfie station triggered by RFID
+    * Tessel to tessel connection through BLE
+    * Attempted to use ambient and climate to add filters to photo
+    * Used audio for countdown and shutter sound
+    * Attempted to save picture to micro sd card
+    * Attempted to use relay to turn on strip of LEDs for picture flash
+    
