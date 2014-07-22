@@ -39,3 +39,6 @@
     * Attempted to save picture to micro sd card
     * Attempted to use relay to turn on strip of LEDs for picture flash
     
+#### July 21, 2014
+  * Overall: Unix commands, git, recursion, and underscore.js
+    * Learned new unix commands including grep and find
