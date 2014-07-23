@@ -42,3 +42,9 @@
 #### July 21, 2014
   * Overall: Unix commands, git, recursion, and underscore.js
     * Learned new unix commands including grep and find
+
+#### July 22, 2014
+  * Overall: sorting functions
+    * Implemented bogo sort
+    * Researched gnome sort, bogo sort, and cocktail shaker sort
+    * Learned of lo-dash.js
