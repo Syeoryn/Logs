@@ -44,7 +44,20 @@
     * Learned new unix commands including grep and find
 
 #### July 22, 2014
-  * Overall: sorting functions
+  * Overall: Sorting functions
     * Implemented bogo sort
     * Researched gnome sort, bogo sort, and cocktail shaker sort
     * Learned of lo-dash.js
+
+#### July 23, 2014
+  * Overall: Sorting functions
+    * Implemented sleep sort
+
+#### July 24, 2014
+  * Overall: Emmet
+    * Started practicing using Emmet
+
+#### July 25, 2014
+  * Overall: Sorting functions
+    * Implemented cocktail sort
+    
