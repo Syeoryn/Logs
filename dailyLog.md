@@ -60,4 +60,16 @@
 #### July 25, 2014
   * Overall: Sorting functions
     * Implemented cocktail sort
-    
+
+#### July 26, 2014
+  * Overall: Data structures
+    * Researched advanced data structures:
+      * AVL tree
+      * Red-black tree
+      * Ropes
+      * T-tree
+      * Tango tree
+      * Threaded binary tree
+      * B-trees
+      * Multiway trees
+      
