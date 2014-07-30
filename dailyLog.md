@@ -73,3 +73,9 @@
       * B-trees
       * Multiway trees
       
+#### July 28, 2014
+  * Overall: recursion
+    * Explored various recursive functions
+      * containsFiveOrMoreDivs
+      * countDivs
+      
