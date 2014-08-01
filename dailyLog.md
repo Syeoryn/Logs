@@ -79,3 +79,7 @@
       * containsFiveOrMoreDivs
       * countDivs
       
+#### July 31, 2014
+  * Overall: Shell scripting, regex
+    * Started terminalNotes shell script
+    * Wrote helper function to solveCrosswordPuzzle using regex
